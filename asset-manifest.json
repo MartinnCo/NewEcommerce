@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NewTesting/static/css/main.7018903a.css",
+    "main.js": "/NewTesting/static/js/main.5fb2ec70.js",
+    "static/js/787.2ad20733.chunk.js": "/NewTesting/static/js/787.2ad20733.chunk.js",
+    "static/media/hero-bg.jpg": "/NewTesting/static/media/hero-bg.8a5179e07c2d5b8e8dd3.jpg",
+    "static/media/Freecad_SDI.glb": "/NewTesting/static/media/Freecad_SDI.716f55ba789c6efb1e1d.glb",
+    "index.html": "/NewTesting/index.html",
+    "main.7018903a.css.map": "/NewTesting/static/css/main.7018903a.css.map",
+    "main.5fb2ec70.js.map": "/NewTesting/static/js/main.5fb2ec70.js.map",
+    "787.2ad20733.chunk.js.map": "/NewTesting/static/js/787.2ad20733.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7018903a.css",
+    "static/js/main.5fb2ec70.js"
+  ]
+}
