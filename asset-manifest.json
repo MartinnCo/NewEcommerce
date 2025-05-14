@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/NewEcommerce/static/css/main.61e65696.css",
-    "main.js": "/NewEcommerce/static/js/main.351cd09d.js",
-    "static/js/787.2ad20733.chunk.js": "/NewEcommerce/static/js/787.2ad20733.chunk.js",
-    "static/media/hero-bg.jpg": "/NewEcommerce/static/media/hero-bg.8a5179e07c2d5b8e8dd3.jpg",
-    "static/media/Freecad_SDI.glb": "/NewEcommerce/static/media/Freecad_SDI.716f55ba789c6efb1e1d.glb",
-    "index.html": "/NewEcommerce/index.html",
-    "main.61e65696.css.map": "/NewEcommerce/static/css/main.61e65696.css.map",
-    "main.351cd09d.js.map": "/NewEcommerce/static/js/main.351cd09d.js.map",
-    "787.2ad20733.chunk.js.map": "/NewEcommerce/static/js/787.2ad20733.chunk.js.map"
+    "main.css": "/NewTesting/static/css/main.e6aa334f.css",
+    "main.js": "/NewTesting/static/js/main.8b898592.js",
+    "static/js/787.2ad20733.chunk.js": "/NewTesting/static/js/787.2ad20733.chunk.js",
+    "static/media/hero-bg.jpg": "/NewTesting/static/media/hero-bg.8a5179e07c2d5b8e8dd3.jpg",
+    "static/media/Freecad_SDI.glb": "/NewTesting/static/media/Freecad_SDI.716f55ba789c6efb1e1d.glb",
+    "index.html": "/NewTesting/index.html",
+    "main.e6aa334f.css.map": "/NewTesting/static/css/main.e6aa334f.css.map",
+    "main.8b898592.js.map": "/NewTesting/static/js/main.8b898592.js.map",
+    "787.2ad20733.chunk.js.map": "/NewTesting/static/js/787.2ad20733.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61e65696.css",
-    "static/js/main.351cd09d.js"
+    "static/css/main.e6aa334f.css",
+    "static/js/main.8b898592.js"
   ]
 }
